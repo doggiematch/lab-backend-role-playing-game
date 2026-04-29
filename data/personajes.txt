@@ -1,0 +1,5 @@
+{"id":1,"nombre":"Grindal","especie":"enano","categoria":"guerrero","stats":{"vida":150,"ataque":30,"defensa":25,"iniciativa":0},"victorias":12,"derrotas":0}
+{"id":2,"nombre":"Grimr","especie":"enano","categoria":"explorador","stats":{"vida":130,"ataque":25,"defensa":20,"iniciativa":15},"victorias":0,"derrotas":4}
+{"id":3,"nombre":"Grindal","especie":"enano","categoria":"guerrero","stats":{"vida":150,"ataque":30,"defensa":25,"iniciativa":0},"victorias":0,"derrotas":0}
+{"id":4,"nombre":"Sera","especie":"humano","categoria":"explorador","stats":{"vida":110,"ataque":20,"defensa":10,"iniciativa":25},"victorias":0,"derrotas":0}
+{"id":5,"nombre":"Gandolf","especie":"elfo","categoria":"mago","stats":{"vida":80,"ataque":45,"defensa":-5,"iniciativa":20},"victorias":0,"derrotas":8}
