@@ -51,14 +51,6 @@ const eliminar = (req, res, next) => {
   }
 };
 
-const estadisticas = (req, res, next) => {
-  try {
-    const stats = service.obtenerEstadisticas();
-    res.json(stats);
-  } catch (err) {
-    next(err);
-  }
-};
 module.exports = {
   listar,
   obtenerUno,
@@ -66,5 +58,4 @@ module.exports = {
   crearAleatorio,
   actualizar,
   eliminar,
-  estadisticas,
 };
