@@ -1,0 +1,2 @@
+{"id":1,"nombre":"Grindal","especie":"enano","categoria":"guerrero","stats":{"vida":150,"ataque":30,"defensa":25,"iniciativa":0},"victorias":1,"derrotas":0}
+{"id":2,"nombre":"Cain","especie":"humano","categoria":"mago","stats":{"vida":90,"ataque":35,"defensa":0,"iniciativa":15},"victorias":0,"derrotas":1}
