@@ -40,6 +40,10 @@ const StorageService = {
     }
     fs.appendFileSync(RUTA_COMBATES, JSON.stringify(combate) + '\n', 'utf-8')
   }
+
 }
+
+
+
 
 module.exports = StorageService
